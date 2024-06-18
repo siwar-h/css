@@ -1,0 +1,38 @@
+h1{
+    color: rgb(188, 64, 122);
+    font-size: 50px;
+    font-style: italic;
+    text-align: center;
+    font-family: roboto;
+    text-decoration: underline;
+
+}
+h3{
+    color: rgb(253, 202, 243);
+    font-size: 20px;
+    font-style: oblique;
+    font-family: roboto;
+    text-decoration: underline;
+}
+.del {
+    color: rgb(21, 222, 241);
+    font-size: 30px;
+    font-style: italic;
+}
+ li{
+    display: inline;
+    font-size: 30px;
+    font-style: italic;
+    word-spacing: 50px;
+   
+
+}
+a:visited{
+    color: rgb(0, 26, 255);
+}
+a:hover{
+    color: rgb(215, 32, 32);
+}
+a:active{
+    color: beige;
+}
